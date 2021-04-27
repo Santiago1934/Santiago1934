@@ -6,6 +6,6 @@ Soy un Full Stack  Developer,siempre en busca de nuevos desafíos y aprendizajes
 🤓 I'm currently learning Java and Vue Js
 
 
-Linkedin: linkedin.com/in/santiago-julian-rosales-peiretti-814728196
+Linkedin: https://www.linkedin.com/in/santiago-julian-rosales-peiretti-814728196/
 
 Email: santiagorosales1@outlook.com
