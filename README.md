@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/santiago-julian-rosales-peiretti-814728196
 
 Email: santiagorosales1@outlook.com
 
-[![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Santi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago1934&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago1934&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
