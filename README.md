@@ -1,4 +1,4 @@
-## Hi there! ```js <img src="https://img2.freepng.es/20200217/gjg/transparent-cartoon-sitting-gesture-grow-with-freakpixels5e61bd7bc2d6b7.6497861715834638037981.jpg" width="50">👋```
+## Hi there! 👋 <img src="https://img2.freepng.es/20200217/gjg/transparent-cartoon-sitting-gesture-grow-with-freakpixels5e61bd7bc2d6b7.6497861715834638037981.jpg" width="50">
 
 Full Stack Developer
 
