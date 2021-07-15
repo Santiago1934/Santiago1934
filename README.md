@@ -15,11 +15,9 @@ const Santiago = {
 
 You can find me 🌎:
 
-[Linkedin] ( https://www.linkedin.com/in/santiago-julian-rosales-peiretti-814728196/)
-
-[Email] (santiagorosales1@outlook.com)
-
-[Portfolio] (https://portfolio-i4mv33m19-santiago1934.vercel.app/)
+- [Linkedin] (https://www.linkedin.com/in/santiago-julian-rosales-peiretti-814728196/)
+- [Email] (santiagorosales1@outlook.com)
+- [Portfolio] (https://portfolio-i4mv33m19-santiago1934.vercel.app/)
 
 ---
 
