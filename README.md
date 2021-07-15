@@ -1,9 +1,17 @@
-## Hola! Soy Santiago Rosales 👋
+## Hi there! ```js <img src="https://img2.freepng.es/20200217/gjg/transparent-cartoon-sitting-gesture-grow-with-freakpixels5e61bd7bc2d6b7.6497861715834638037981.jpg" width="50">👋```
 
-Soy un Full Stack  Developer,siempre en busca de nuevos desafíos y aprendizajes. Hoy por hoy manejo algunas tecnologías, tales como Javascript, Typescript, Node JS, React, Redux, Apollo, SASS, Express, Sequelize, Next JS, Postgres y  GraphQL.
+Full Stack Developer
 
-🌱 I'm  currently looking for my first job  
-🤓 I'm currently learning Java and Vue Js
+```js
+const Santiago = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Next, Node, Sass, Styled-Components, GraphQl, Express, Apollo, Sequelize, Postgres],
+}
+```
+
+
+---
 
 
 Linkedin: https://www.linkedin.com/in/santiago-julian-rosales-peiretti-814728196/
