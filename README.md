@@ -6,7 +6,7 @@
 ```js
 const Santiago = {
   pronouns: "he" | "him",
-  passions:[Web Development, Music, Learn]
+  passions:[Web Development, Music, Learn],
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Next, Node, Sass, Styled-Components, GraphQl, Express, Apollo, Sequelize, Postgres],
 }
